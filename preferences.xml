@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 	<preferences>
+
 		<favorite_movie>Troy</favorite_movie>
 		<favorite_series>Brigada</favorite_series>
 		<favorite_food>manti</favorite_food>
 		<favorite_season>summer</favorite_season>
 		<country>USA</country>
+	
 	</preferences>
