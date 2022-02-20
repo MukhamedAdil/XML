@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8">
+  <bug_report>
+        <summary>test</summary>
+        <project>test</project>
+        <component>test</component>
+        <version>test</version>
+        <severity>test</severity>
+        <priority>test</priority>
+        <status>test</status>
+        <author>test</author>
+        <assigned_To>test</assigned_To>
+        <environment>test</environment>
+        <steps_to_Reproduce>test</steps_to_Reproduce>
+        <result>test</result>
+        <expected_Result>test</expected_Result>
+        <attachment>test</attachment>
+  </bug_report>
